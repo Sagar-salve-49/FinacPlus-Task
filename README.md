@@ -591,37 +591,37 @@ kubectl get nodes
 
 ## Jenkins Dashboard
 
-(Add Screenshot Here)
+![Jenkins Dashboard](screenshots/Jenkins_dashboard.png)
 
 ---
 
 ## Successful Jenkins Pipeline
 
-(Add Screenshot Here)
+![Pipeline](screenshots/Successful_Pipeline.png)
 
 ---
 
 ## DockerHub Repository
 
-(Add Screenshot Here)
+![DockerHub](screenshots/Dockerhub_repo.png)
 
 ---
 
 ## Kubernetes Pods Running
 
-(Add Screenshot Here)
+![Pods](screenshots/Pods.png)
 
 ---
 
 ## Kubernetes Service / LoadBalancer
 
-(Add Screenshot Here)
+![Service](screenshots/Service.png)
 
 ---
 
 ## Application Running on Browser
 
-(Add Screenshot Here)
+![Application](screenshots/Application_output.png)
 
 ---
 
