@@ -7,3 +7,4 @@ def home():
     return "CI/CD Pipeline on AWS EKS Successful"
 
 app.run(host='0.0.0.0', port=5000)
+test
